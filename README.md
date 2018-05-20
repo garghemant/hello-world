@@ -1,3 +1,2 @@
-# hello-world
-Test program for hello world
-This program is to test the OC
+# os-sample-java-web
+Sample Java Web Application for use in OpenShift
